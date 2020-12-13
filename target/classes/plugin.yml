@@ -2,8 +2,13 @@ name: HunterHelper
 main: com.loganhi.hunterhelper.HunterHelper
 version: 0.01
 commands:
-   basic:
-      description: This is a demo command.
+   hunt:
+      description: This starts your compass tracking feature.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
+   stophunt:
+      description: This stops your compass tracking feature.
       usage: /<command>
       permission: <plugin name>.basic
       permission-message: You don't have <permission>
