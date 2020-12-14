@@ -45,4 +45,3 @@ Any contributions you make are **greatly appreciated**. This is Maven Project so
 
 Logan Stoddard - Loganstoddard5@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
